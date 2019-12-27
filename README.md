@@ -1,4 +1,4 @@
-﻿# BTN01-LTW1
+# BTN01-LTW1
 
 
 
@@ -11,6 +11,4 @@ Hoàn thành khung cơ bản cho ứng dụng:
     Đăng bài viết và hiển thị trên trang cá nhân, trang chủ
 
     Gửi email
-
-Link DEMO https://www.youtube.com/watch?v=s3kkdIKwxNU
 
